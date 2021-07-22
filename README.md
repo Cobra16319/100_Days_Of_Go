@@ -79,4 +79,4 @@ This chart shows my all time GitHub language usage (No Go)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_cobra16319)
+![Profile View Counter](https://komarev.com/ghpvc/?username=cobra16319)
