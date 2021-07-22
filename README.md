@@ -16,8 +16,8 @@ This should take you 60 min, and you can expect to learn how to setup a Go devel
 **Time: 15 minutes**
 
 
-* [Download GoLang][https://golang.org/]   
-* [Download Vs Code][https://code.visualstudio.com/download]
+* [Download Go](https://golang.org/)  
+* [Download VS Code](https://code.visualstudio.com/download)
 
 After you install both here is a screen shot of what it should look like after you run `go version` 
 
@@ -55,8 +55,8 @@ The focus today is learning Goroutines, how to write files, fetching data from a
 ## This project will use the offical NHL Hockey Data API. I am having issues getting the go.example.go coded so I will continue to work on that and write about it later. 
 
 
-* [NHL Hockey API] [https://statsapi.web.nhl.com/api/v1/teams] 
-* [JSON to GO converter] [https://mholt.github.io/json-to-go/] Credit to mholt for the converter. 
+* [NHL Hockey API](https://statsapi.web.nhl.com/api/v1/teams)
+* [JSON to GO converter](https://mholt.github.io/json-to-go/) - Credit to mholt for the converter. 
 
 
 Here is a photo of the converter that you should convert all of the data from the teams api from JSON to Go in: 
