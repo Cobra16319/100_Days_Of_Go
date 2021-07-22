@@ -15,7 +15,7 @@ This should take you 60 min, and you can expect to learn how to setup a Go devel
 **Time: 15 minutes**
 
 
-* [Download GoLang][https://golang.org/]Click the Blue link for your Operating System and follow the install guide  
+* [Download GoLang][https://golang.org/]   
 * [Download Vs Code][https://code.visualstudio.com/download]
 
 After you install both here is a screen shot of what it should look like after you run `go version` 
@@ -46,5 +46,21 @@ git tag v1
 git push --tags
 ``
 
-
 ### Day 2 of 100...
+
+The focus today is learning Goroutines, how to write files, fetching data from an api, wait group and channels. It will take about 90 minutes depending on your experience to fully understand. 
+
+
+## I selected to use NHL Hockey Data, buy you can use any data that you have access to the API
+
+
+* [NHL Hockey API] [https://statsapi.web.nhl.com/api/v1/teams] 
+* [JSON to GO converter] [https://mholt.github.io/json-to-go/] Credit to mholt for the converter. 
+
+
+Here is a photo of the converter that you should convert all of the data from the teams api from JSON to Go in: 
+
+![22739310-8390-4E8B-94E7-412E7871521C_1_105_c](https://user-images.githubusercontent.com/46206055/126576973-81892e70-6fd3-4105-8d53-31e090e182fc.jpeg)
+
+
+
