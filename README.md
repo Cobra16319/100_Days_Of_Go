@@ -79,3 +79,4 @@ This chart shows my all time GitHub language usage (No Go)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Cobra16319/100_Days_Of_Go.git)
