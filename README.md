@@ -63,7 +63,14 @@ Here is a photo of the converter that you should convert all of the data from th
 ![22739310-8390-4E8B-94E7-412E7871521C_1_105_c](https://user-images.githubusercontent.com/46206055/126576973-81892e70-6fd3-4105-8d53-31e090e182fc.jpeg)
 
 
-## Going to add issue to the project for a linter and to try to figure out what GitHub action to use for scanning and code coverage. 
+##### To Do for Day 2 
+
+1. Get NHL API working locally with main.go
+2. Figure out how to lint in go with Git Hub Actions
+3. Select an Open Source security provider and integrate with Git Hub Actions
+
+
+ 
 
 
 
