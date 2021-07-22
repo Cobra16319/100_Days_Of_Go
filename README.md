@@ -48,10 +48,10 @@ git push --tags
 
 ### Day 2 of 100...
 
-The focus today is learning Goroutines, how to write files, fetching data from an api, wait group and channels. It will take about 90 minutes depending on your experience to fully understand. 
+The focus today is learning Goroutines, how to write files, fetching data from an api, wait group and channels.  
 
 
-## I selected to use NHL Hockey Data, buy you can use any data that you have access to the API
+## This project will use the offical NHL Hockey Data API. I am having issues getting the go.example.go coded so I will continue to work on that and write about it later. 
 
 
 * [NHL Hockey API] [https://statsapi.web.nhl.com/api/v1/teams] 
@@ -61,6 +61,9 @@ The focus today is learning Goroutines, how to write files, fetching data from a
 Here is a photo of the converter that you should convert all of the data from the teams api from JSON to Go in: 
 
 ![22739310-8390-4E8B-94E7-412E7871521C_1_105_c](https://user-images.githubusercontent.com/46206055/126576973-81892e70-6fd3-4105-8d53-31e090e182fc.jpeg)
+
+
+## Going to add issue to the project for a linter and to try to figure out what GitHub action to use for scanning and code coverage. 
 
 
 
