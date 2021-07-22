@@ -1,5 +1,5 @@
 [![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
+
 
 # 100 Days of GO
 
@@ -73,5 +73,9 @@ Here is a photo of the converter that you should convert all of the data from th
 
  
 
+##### I am falling in love with Go! I need your help and support to survie the next 98 days
 
+This chart shows my all time GitHub language usage (No Go)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
