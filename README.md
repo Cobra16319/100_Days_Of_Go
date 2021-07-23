@@ -71,11 +71,19 @@ Here is a photo of the converter that you should convert all of the data from th
 3. Select an Open Source security provider and integrate with Git Hub Actions
 
 
+### Day two errors are our friends (:
+
+Sharing my current errors running a local git super lint tool locally which today I plan to write a custom git hub action for. The rest of day 2 will be fixing these errors and completing the second git hub action (Sharing learning experience) 
+
+
+![590686C5-17A4-4E0B-8847-86A3B6F0261C_4_5005_c](https://user-images.githubusercontent.com/46206055/126795648-5cb8b235-a9c9-418a-b6ab-6874f3d7cdbc.jpeg)
+
+
  
 
 ##### I am falling in love with Go! I need your help and support to survie the next 98 days
 
-This chart shows my all time GitHub language usage (No Go)
+This chart shows my all time GitHub language usage over this 100 days I want Go on top! 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 

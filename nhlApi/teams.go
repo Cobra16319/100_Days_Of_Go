@@ -41,7 +41,6 @@ type Team struct {
 		OfficialSiteURL string `json:"officialSiteUrl"`
 		FranchiseID     int    `json:"franchiseId"`
 		Active          bool   `json:"active"`
-
 }
 
 type nhlTeamsRespone struct { 
