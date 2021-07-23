@@ -1,11 +1,10 @@
-[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml) ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) ![Stale Code Check](https://github.com/Cobra16319/100_Days_Of_Go/blob/main/.github/workflows/stale.yml/badge.svg) 
+[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml) ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) 
 
 # 100 Days of GO
 
-This repository is a journal of my path to learning GO.
-By the end of the 100 days, you should be able to follow along by day and learn Go as well.
+Open sourcing my journey to learn Go. I hope you will learn, teach or contribute as I grow in the community! 
 
-### Day #1 21 July 2021 
+### Day 1 21 July 2021 
 
 This should take you 60 min, and you can expect to learn how to setup a Go development enviornment and basic Git Hub Actions.
 
@@ -46,17 +45,16 @@ git tag v1
 git push --tags
 ``
 
-### Day 2 of 100...
+### Day 2 of 100
 
-The focus today is learning Goroutines, how to write files, fetching data from an api, wait group and channels.  
+The focus today is learning Goroutines, how to write files, fetching data from an api, wait group and channels. Take some time and look at the code and anaylis what is going on. I am cobra16319 on the Go Discord as well.   
 
-
-## This project will use the offical NHL Hockey Data API. I am having issues getting the go.example.go coded so I will continue to work on that and write about it later. 
-
+## This project will use the offical NHL Hockey Data API. I struggled to resolve an issue today with the ≠ versus the !=.  I learned about all of the Comparision operators in Go today and also solved the problem and got it to work. Directly below is the medium article I learned from. 
+* [Comparison_Operators] (https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
 
 * [NHL Hockey API](https://statsapi.web.nhl.com/api/v1/teams)
 * [JSON to GO converter](https://mholt.github.io/json-to-go/) - Credit to mholt for the converter. 
-
+* [YouTube_Guide] (https://www.youtube.com/watch?v=eu4wqYA7mBY) - Credit to EQuimper
 
 Here is a photo of the converter that you should convert all of the data from the teams api from JSON to Go in: 
 
@@ -70,7 +68,7 @@ Here is a photo of the converter that you should convert all of the data from th
 3. Select an Open Source security provider and integrate with Git Hub Actions
 
 
-### Day two errors are our friends (:
+### Here were some of the errors I recieved from the Comparison Operators
 
 Sharing my current errors running a local git super lint tool locally which today I plan to write a custom git hub action for. The rest of day 2 will be fixing these errors and completing the second git hub action (Sharing learning experience) 
 
