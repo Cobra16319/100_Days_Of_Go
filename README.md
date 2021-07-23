@@ -88,3 +88,5 @@ This chart shows my all time GitHub language usage over this 100 days I want Go 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cobra16319)
+
+Was able to fix the errors and learn from them. Going to move on to branching strategy and lint action.
