@@ -49,7 +49,9 @@ git push --tags
 
 The focus today is learning Goroutines, how to write files, fetching data from an api, wait group and channels. Take some time and look at the code and anaylis what is going on. I am cobra16319 on the Go Discord as well.   
 
-## This project will use the offical NHL Hockey Data API. I struggled to resolve an issue today with the ≠ versus the !=.  I learned about all of the Comparision operators in Go today and also solved the problem and got it to work. Directly below is the medium article I learned from. 
+This project will use the offical NHL Hockey Data API. 
+
+I struggled to resolve an issue today with the "≠" versus the "!=" comparision operator.  I fixed the issue by resolving the below listed errors and learned something new about Go. Directly below is the medium article I learned from. 
 * [Comparison_Operators] (https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
 
 * [NHL Hockey API](https://statsapi.web.nhl.com/api/v1/teams)
@@ -76,14 +78,21 @@ Sharing my current errors running a local git super lint tool locally which toda
 ![590686C5-17A4-4E0B-8847-86A3B6F0261C_4_5005_c](https://user-images.githubusercontent.com/46206055/126795648-5cb8b235-a9c9-418a-b6ab-6874f3d7cdbc.jpeg)
 
 
- 
+ ### Acievments of the Day
 
-##### I am falling in love with Go! I need your help and support to survie the next 98 days
+ 1. Installed 2 new workflows.
+ 2. Was able to get the basic application to run.
+ 3. Updated Documentation. 
+ 4. Accepted first pull request for markup in the read.md from a community member. 
 
-This chart shows my all time GitHub language usage over this 100 days I want Go on top! 
+##### I am falling in love with Go! I need your help and support to survie the next 97 days
+
+As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
+
+### Day 3 Going to need to plan what to do with the project next. Please if anyone has a challenge or idea let me know on discord or reddit. 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cobra16319)
 
-Was able to fix the errors and learn from them. Going to move on to branching strategy and lint action.
+
