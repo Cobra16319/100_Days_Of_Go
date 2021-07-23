@@ -4,7 +4,7 @@
 
 Open sourcing my journey to learn Go. I hope you will learn, teach or contribute as I grow in the community! 
 
-### Day 1 21 July 2021 
+### Day 1 (21 July)
 
 This should take you 60 min, and you can expect to learn how to setup a Go development enviornment and basic Git Hub Actions.
 
