@@ -1,5 +1,6 @@
 [![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)
 
+[![Cobra's Greeting Workflow](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/blob/main/.github/workflows/greetings.yml
 
 # 100 Days of GO
 
