@@ -54,9 +54,9 @@ This project will use the offical NHL Hockey Data API.
 I struggled to resolve an issue today with the "≠" versus the "!=" comparision operator.  I fixed the issue by resolving the below listed errors and learned something new about Go. Directly below is the medium article I learned from. 
 * [Comparison_Operators] (https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
 
-* [NHL Hockey API](https://statsapi.web.nhl.com/api/v1/teams)
-* [JSON to GO converter](https://mholt.github.io/json-to-go/) - Credit to mholt for the converter. 
-* [YouTube_Guide] (https://www.youtube.com/watch?v=eu4wqYA7mBY) - Credit to EQuimper
+* [NHL API](https://statsapi.web.nhl.com/api/v1/teams)
+* [JSON to GO](https://mholt.github.io/json-to-go/) - Credit to mholt  
+* [YouTube] (https://www.youtube.com/watch?v=eu4wqYA7mBY) - Credit to EQuimper
 
 Here is a photo of the converter that you should convert all of the data from the teams api from JSON to Go in: 
 
@@ -89,7 +89,16 @@ Sharing my current errors running a local git super lint tool locally which toda
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
 
-### Day 3 Going to need to plan what to do with the project next. Please if anyone has a challenge or idea let me know on discord or reddit. 
+### Day 3 
+
+ 
+Challenge of the day is to write some code to provision the infrastructure to support writting data to (AWS S3). From here I plan to iterate and do something interesting with the data. 
+
+1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
+2. Confirmed functionality of terraform with open stack. 
+3. Configure terraform Git Hub action to check build with open stack and terraform cloud. 
+
+* [Open Stack] https://localstack.cloud/
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
