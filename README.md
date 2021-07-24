@@ -85,20 +85,32 @@ Sharing my current errors running a local git super lint tool locally which toda
  3. Updated Documentation. 
  4. Accepted first pull request for markup in the read.md from a community member. 
 
+
+### To Do for Day 3
+
+1. Setup a way to provision infrastructure as code (IaC) with a budget constrant
+2. Plan a way to recieve the data from the Restful API with something that has a GO SDK
+3. Plan, apply and test the code on local stack. 
+
+Photo of a correctly provisioned terraform package (opinionated): 
+
+![14BC57B1-F764-48D2-B4DB-B1525B8F7FF1_4_5005_c](https://user-images.githubusercontent.com/46206055/126882115-4c5a4964-e0dd-4fc7-b381-ada4eb403ac6.jpeg)
+
+Local Stack allows you to test Infrastructure of Code (IaC) with no cost. 
+
+* [Open Stack] https://localstack.cloud/
+ 
+# Acievments of the Day
+
+1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
+2. Confirmed functionality of terraform with open stack. 
+3. Configure terraform Git Hub action to check build with local stack and terraform cloud. 
+
+
 ##### I am falling in love with Go! I need your help and support to survie the next 97 days
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
 
-### Day 3 
-
- 
-Challenge of the day is to write some code to provision the infrastructure to support writting data to (AWS S3). From here I plan to iterate and do something interesting with the data. 
-
-1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
-2. Confirmed functionality of terraform with open stack. 
-3. Configure terraform Git Hub action to check build with open stack and terraform cloud. 
-
-* [Open Stack] https://localstack.cloud/
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
