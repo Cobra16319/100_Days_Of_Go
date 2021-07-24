@@ -2,7 +2,7 @@
 
 # 100 Days of GO
 
-Open sourcing my journey to learn Go. I hope you will learn, teach or contribute as I grow in the community! 
+Sharing my journey to improve my Go skills with 100 day focus. I hope you will learn, teach or contribute as we grow in the community together! 
 
 ### Day 1 (21 July)
 
