@@ -63,14 +63,14 @@ Here is a photo of the converter that you should convert all of the data from th
 ![22739310-8390-4E8B-94E7-412E7871521C_1_105_c](https://user-images.githubusercontent.com/46206055/126576973-81892e70-6fd3-4105-8d53-31e090e182fc.jpeg)
 
 
-##### To Do for Day 2 
+#### To Do for Day 2 
 
 1. Get NHL API working locally with main.go
 2. Figure out how to lint in go with Git Hub Actions
 3. Select an Open Source security provider and integrate with Git Hub Actions
 
 
-### Here were some of the errors I recieved from the Comparison Operators
+Here were some of the errors I recieved from the Comparison Operators
 
 Sharing my current errors running a local git super lint tool locally which today I plan to write a custom git hub action for. The rest of day 2 will be fixing these errors and completing the second git hub action (Sharing learning experience) 
 
@@ -78,27 +78,39 @@ Sharing my current errors running a local git super lint tool locally which toda
 ![590686C5-17A4-4E0B-8847-86A3B6F0261C_4_5005_c](https://user-images.githubusercontent.com/46206055/126795648-5cb8b235-a9c9-418a-b6ab-6874f3d7cdbc.jpeg)
 
 
- ### Acievments of the Day
+### Acievments of the Day
 
  1. Installed 2 new workflows.
  2. Was able to get the basic application to run.
  3. Updated Documentation. 
  4. Accepted first pull request for markup in the read.md from a community member. 
 
-##### I am falling in love with Go! I need your help and support to survie the next 97 days
 
-As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
+### To Do for Day 3
 
-### Day 3 
+1. Setup a way to provision infrastructure as code (IaC) with a budget constrant
+2. Plan a way to recieve the data from the Restful API with something that has a GO SDK
+3. Plan, apply and test the code on local stack. 
 
+Photo of a correctly provisioned terraform package (opinionated): 
+
+![14BC57B1-F764-48D2-B4DB-B1525B8F7FF1_4_5005_c](https://user-images.githubusercontent.com/46206055/126882115-4c5a4964-e0dd-4fc7-b381-ada4eb403ac6.jpeg)
+
+Local Stack allows you to test Infrastructure of Code (IaC) with no cost. 
+
+* [Open Stack] https://localstack.cloud/
  
-Challenge of the day is to write some code to provision the infrastructure to support writting data to (AWS S3). From here I plan to iterate and do something interesting with the data. 
+Acievments of the Day
 
 1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
 2. Confirmed functionality of terraform with open stack. 
-3. Configure terraform Git Hub action to check build with open stack and terraform cloud. 
+3. Configure terraform Git Hub action to check build with local stack and terraform cloud. 
 
-* [Open Stack] https://localstack.cloud/
+
+I am falling in love with Go! I need your help and support to survie the next 97 days
+
+As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
