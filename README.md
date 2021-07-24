@@ -1,4 +1,4 @@
-[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml) ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) 
+[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml) ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) [Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml
 
 # 100 Days of GO
 
@@ -97,16 +97,16 @@ Photo of a correctly provisioned terraform package (opinionated):
 
 Local Stack allows you to test Infrastructure of Code (IaC) with no cost. 
 
-* [Open Stack] https://localstack.cloud/
+* [Local Stack] https://localstack.cloud/
  
 Acievments of the Day
 
 1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
-2. Confirmed functionality of terraform with open stack. 
+2. Confirmed functionality of terraform with local stack. 
 3. Configure terraform Git Hub action to check build with local stack and terraform cloud. 
 
 
-I am falling in love with Go! I need your help and support to survie the next 97 days
+I am falling in love with Go! I need your help and support to survie the next 96 days
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
 
