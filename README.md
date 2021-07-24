@@ -51,15 +51,11 @@ The focus today is learning Goroutines, how to write files, fetching data from a
 
 This project will use the offical NHL Hockey Data API. 
 
-I struggled to resolve an issue today with the "≠" versus the "!=" comparision operator.  I fixed the issue by resolving the below listed errors and learned something new about Go. Directly below is the medium article I learned from. 
-
-* [Comparison_Operators] (https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
+I struggled to resolve an issue today with the "≠" versus the "!=" comparision operator.  I fixed the issue by resolving the below listed errors and learned something new about Go. Links below:
 
 * [NHL API](https://statsapi.web.nhl.com/api/v1/teams)
 
 * [JSON to GO](https://mholt.github.io/json-to-go/) - Credit to mholt  
-
-* [YouTube] (https://www.youtube.com/watch?v=eu4wqYA7mBY) - Credit to EQuimper
 
 Here is a photo of the converter that you should convert all of the data from the teams api from JSON to Go in: 
 
