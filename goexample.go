@@ -6,12 +6,9 @@ import (
 	"log"
 	"os"
 	"sync"
-	"time"
 )
 
 func main() {
-	// help benchmarking the request time
-	now := time.Now()
 
 	rosterFile, err := os.OpenFile("rosters.txt", os.O_RDWR|os.O_CREATE, 0666)
 	if err != nil {
@@ -54,8 +51,6 @@ func main() {
 	}()
 
 	display(results)
-
-	log.Printf("took %v", time.Now().Sub(now).String())
 }
 
 func display(results chan []nhlApi.Roster) {
