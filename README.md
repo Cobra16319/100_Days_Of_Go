@@ -103,7 +103,7 @@ Acievments of the Day
 
 1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
 2. Confirmed functionality of terraform with local stack. 
-3. Configure terraform Git Hub action to check build with local stack and terraform cloud. 
+3. Configure GO Lint test to do a static scan and failed; created the projects first issue and will address on day 4.
 
 
 I am falling in love with Go! I need your help and support to survie the next 96 days
