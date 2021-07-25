@@ -1,4 +1,4 @@
-[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)       ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) [![Run golangci-lint](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml) 
+[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)       ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) [![Run golangci-lint](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml) [![Mark stale issues and pull requests](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml)
 
 # 100 Days of GO
 
@@ -101,9 +101,10 @@ Local Stack allows you to test Infrastructure of Code (IaC) with no cost.
  
 Acievments of the Day
 
-1. Provisioned 2 Terraform modules one remote and one local. Resources: (AWS S3) (VPC) (API Gateway) (Lambda) 
+1. Provisioned 2 Terraform modules one remote and one local Resources: (AWS S3) (VPC) (API Gateway) (Lambda).
 2. Confirmed functionality of terraform with local stack. 
-3. Configure GO Lint test to do a static scan and failed; created the projects first issue and will address on day 4.
+3. Configured GO Lint test to do a static scan and failed; created the projects first issue and will address on day 4.
+4. Configured Git Hub action to check for stale pull request to be inclusive of others helping. 
 
 
 I am falling in love with Go! I need your help and support to survie the next 96 days
