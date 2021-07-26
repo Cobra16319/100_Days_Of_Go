@@ -53,7 +53,8 @@ This project will use the offical NHL Hockey Data API.
 
 I struggled to resolve an issue today with the "≠" versus the "!=" comparision operator.  I fixed the issue by resolving the below listed errors and learned something new about Go. Links below:
 
-* [NHL API](https://statsapi.web.nhl.com/api/v1/teams)
+* [NHL API](https://statsapi.web.nhl.com/api/v1/teams) - Credit to EQuimper
+
 
 * [JSON to GO](https://mholt.github.io/json-to-go/) - Credit to mholt  
 
