@@ -106,6 +106,26 @@ Acievments of the Day
 3. Configured GO Lint test to do a static scan and failed; created the projects first issue and will address on day 4.
 4. Configured Git Hub action to check for stale pull request to be inclusive of others helping. 
 
+### Day 4 
+
+After being able to fetch the API's today the focus was on Goroutines, ensuring the lint test passed and the program was written correctly before moving on to more advanced features. 
+
+# The first step was to address the projects first issue
+
+I was able to follow the Go Documentation for time and fix the time.Since versus time.Now issue and pass the lint git hub action. 
+
+Next I wanted to do some time tests for the API call which hit about 56 K API requests in around 913 Mila-seconds. This is a huge advantage to GO instead of doing one at a time I was able to do them all at once. 
+
+Here is an image of what is should look like when you run the program locally. You can try it out with 
+
+``
+go run goexample.go 
+``
+
+![7F8A2DDC-0506-422A-BA2F-1A028D4A9D80](https://user-images.githubusercontent.com/46206055/126925549-958f9671-8f7d-4f57-a241-a93506531f05.jpeg)
+
+As you can see all four badges are green now. I am going to call it for Day 4 and focus on security on Day 5 before diving into more advanced features. 
+
 
 I am falling in love with Go! I need your help and support to survie the next 96 days
 
