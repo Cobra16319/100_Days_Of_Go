@@ -1,4 +1,4 @@
-[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)       ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg)  [![Mark stale issues and pull requests](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml)
+[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)       ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) [![Run golangci-lint](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml) [![Mark stale issues and pull requests](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml)
 
 # 100 Days of GO
 
