@@ -1,0 +1,47 @@
+on:
+  push:
+    paths:
+      - '**.go'
+    branches:
+      - master
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Go
+        if: success()
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17.x
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Calculate coverage and add to reamde.md
+        run: |
+          go test ./... -coverprofile cover.out
+          percentage=$(go tool cover -func cover.out | tail -1 | awk '{print$3}'| sed 's/%//g')
+          n=$(echo $percentage | cut -c-3)
+          if [ $n = "100" ]; then
+              color=brightgreen
+          else
+              n=$(echo $percentage | cut -c-2)
+              if [ $n -gt  75 ]; then
+                color=brightgreen
+              elif [ $n -gt 50 ]; then
+                color=yellow
+              elif [ $n -gt 25 ]; then
+                color=orange
+              else
+                color=red
+              fi
+          fi
+          echo $color
+          url="https:\/\/img.shields.io\/badge\/"
+          badge_label="coverage"
+          sed -i "s/\!\[coverage\]\(.*\)/\![coverage]($url$badge_label-$percentage%25-$color)/g" README.md
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update coverage badge in README.md
+          branch: master
+          file_pattern: README.md
