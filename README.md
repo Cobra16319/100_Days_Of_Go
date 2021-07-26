@@ -127,6 +127,31 @@ go run goexample.go
 
 As you can see all four badges are green now. I am going to call it for Day 4 and focus on security on Day 5 before diving into more advanced features. 
 
+### Day 5
+
+I added Snyk today, best choice yet! Snyk IaC, and Snyk Open Source — uses Snyk’s GitHub actions to integrate Snyk natively with GitHub Security Code Scanning. 
+
+The level of detail it provides and the seamless workflow was amazing! Check out a vulnerability I generated to test the Infrastructure as Code portion with Terraform. 
+
+![543A98A5-28EA-46C7-A04A-2C358313325F_1_105_c](https://user-images.githubusercontent.com/46206055/127057085-a0e5a263-ad55-44a4-b371-c92ad365740c.jpeg)
+
+If you want to add Snyk to your workflow here are the steps:
+
+1. Visit the Snyk free tier site & setup an account 
+2. Link it with your Git Hub
+3. Get the access key from the "settings tab" 
+4. Select the language from the Snyk documenation 
+5. Go to settings in Git Hub and setup a secret (I selected HashiCorp Vault)
+5. Change the .yml to your desired specs 
+6. Setup and run your new workflow and select add badge if you desire to show your results
+
+# Day 5 Goals
+
+1. Enhance security of the project; integrated Snyk 
+2. Added documentation for issues and contributers to include the Code of Conduct
+3. Studied the use of Goroutines in the project and in the Go Playground
+
+### Day 6...
 
 I am falling in love with Go! I need your help and support to survie the next 96 days
 
