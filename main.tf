@@ -1,21 +1,18 @@
-#     
-#     For testing purpose only. Production costs too $ 
-#     The configuration for the `remote` backend.
-      terraform {
-        backend "remote" {
-#         Name of your Terraform Cloud Org
-          organization = "Cobra-Net"
-#
-#         # The name of the Terraform Cloud workspace to store Terraform state files in.
-          workspaces {
-            name = "100_Days_of_GO"
-          }
-        }
-      }
-#
-#     # An example resource that does nothing.
-      resource "null_resource" "example" {
-        triggers = {
-          value = "A example resource that does nothing!"
-        }
-      }
+terraform {
+  required_providers {
+    aws = {
+      source = "hashicorp/aws"
+    }
+    random = {
+      source = "hashicorp/random"
+    }
+  }
+
+  backend "remote" {
++   organization = "Cobra-Net"
+
+    workspaces {
+      name = "100_Days_Of_Go"
+    }
+  }
+}
