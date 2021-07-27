@@ -1,3 +1,4 @@
+# Updated with guide to test CI
 terraform {
   required_providers {
     aws = {
@@ -12,7 +13,7 @@ terraform {
    organization = "Cobra-Net"
 
     workspaces {
-      name = "100_Days_Of_Go"
+      name = "gh-actions-demo"
     }
   }
 }
