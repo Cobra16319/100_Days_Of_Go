@@ -145,13 +145,26 @@ If you want to add Snyk to your workflow here are the steps:
 5. Change the .yml to your desired specs 
 6. Setup and run your new workflow and select add badge if you desire to show your results
 
-# Day 5 Goals
+# Day 5 Achievments 
 
 1. Enhance security of the project; integrated Snyk 
 2. Added documentation for issues and contributers to include the Code of Conduct
 3. Studied the use of Goroutines in the project and in the Go Playground
 
-### Day 6...
+### Day 6 
+
+Create an issue for the infrastructure of the project 
+
+* https://github.com/Cobra16319/100_Days_Of_Go/issues/30
+
+Today I started with:
+
+I completed the setup of HashiCorp Cloud Platfom (HCP) Consul using Terraform and Terraform Cloud. 
+
+* https://learn.hashicorp.com/tutorials/cloud/terraform-hcp-consul-provider
+
+Next step is to set up the consul clients and then HCP Vault on top. Once this is setup I will draft an architectural diagram for the rest of the architecture to support the 100 Days of Go application.  
+
 
 I am falling in love with Go! I need your help and support to survie the next 96 days
 
