@@ -151,10 +151,15 @@ If you want to add Snyk to your workflow here are the steps:
 2. Added documentation for issues and contributers to include the Code of Conduct
 3. Studied the use of Goroutines in the project and in the Go Playground
 
+### Day 6
 
+I deployed HCP Consul, and learned the basics of HashiCorp Cloud Platform (HCP) Consul and learned how to manually deploy a cluster and peer the HashiCorp Virtual Network (HVN) with your AWS Virtual Private Cloud (VPC).
 
+Once I understood the basic components and steps required to deploy a Consul cluster, I automated the approach using HashiCorp Terraform. 
 
-### Day 7
+I created an issue for the rest of the insfrstructure here is the draft architecture:  
+
+![13932F1A-89DF-4EB5-A9E1-18673AC9C5E2_1_105_c](https://user-images.githubusercontent.com/46206055/127510389-e1428d89-6c37-4662-bb51-a9eedc47fc15.jpeg)
 
 
 I am falling in love with Go! I need your help and support to survie the next 96 days
