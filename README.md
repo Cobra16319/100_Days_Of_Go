@@ -157,7 +157,9 @@ I deployed HCP Consul, and learned the basics of HashiCorp Cloud Platform (HCP) 
 
 Once I understood the basic components and steps required to deploy a Consul cluster, I automated the approach using HashiCorp Terraform. 
 
-I created an issue for the rest of the insfrstructure here is the draft architecture:  
+I created an issue for the rest of the insfrstructure here is the draft architecture I will be using Nomad instead of kubernetes but orginally found it here and I will be adapting the model for use for the project: 
+
+* https://github.com/joatmon08/hashicorp-stack-demoapp/blob/main/README.md  
 
 ![13932F1A-89DF-4EB5-A9E1-18673AC9C5E2_1_105_c](https://user-images.githubusercontent.com/46206055/127510389-e1428d89-6c37-4662-bb51-a9eedc47fc15.jpeg)
 
