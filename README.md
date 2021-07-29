@@ -145,11 +145,12 @@ If you want to add Snyk to your workflow here are the steps:
 5. Change the .yml to your desired specs 
 6. Setup and run your new workflow and select add badge if you desire to show your results
 
-# Day 5 Goals
+# Day 5 Achievments 
 
 1. Enhance security of the project; integrated Snyk 
 2. Added documentation for issues and contributers to include the Code of Conduct
 3. Studied the use of Goroutines in the project and in the Go Playground
+
 
 
 
