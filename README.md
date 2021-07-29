@@ -154,6 +154,9 @@ If you want to add Snyk to your workflow here are the steps:
 
 
 
+### Day 7
+
+
 I am falling in love with Go! I need your help and support to survie the next 96 days
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
