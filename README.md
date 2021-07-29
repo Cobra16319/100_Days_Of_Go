@@ -1,4 +1,4 @@
-[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)       ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) [![Run golangci-lint](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml) [![Mark stale issues and pull requests](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml) [![.github/workflows/coverage.yaml](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/coverage.yaml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/coverage.yaml) [![Example workflow for Golang using Snyk](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/Synk.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/Synk.yml)
+[![Go](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/go.yml)       ![Cobra's_Greeting](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/greetings.yml/badge.svg) [![Run golangci-lint](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/lint.yml) [![Mark stale issues and pull requests](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/stale.yml) [![.github/workflows/coverage.yaml](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/coverage.yaml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/coverage.yaml) [![Example workflow for Golang using Snyk](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/Synk.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/Synk.yml) [![Terraform](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/terraform.yml/badge.svg)](https://github.com/Cobra16319/100_Days_Of_Go/actions/workflows/terraform.yml)
 
 # 100 Days of GO
 
@@ -151,19 +151,7 @@ If you want to add Snyk to your workflow here are the steps:
 2. Added documentation for issues and contributers to include the Code of Conduct
 3. Studied the use of Goroutines in the project and in the Go Playground
 
-### Day 6 
 
-Create an issue for the infrastructure of the project 
-
-* https://github.com/Cobra16319/100_Days_Of_Go/issues/30
-
-Today I started with:
-
-I completed the setup of HashiCorp Cloud Platfom (HCP) Consul using Terraform and Terraform Cloud. 
-
-* https://learn.hashicorp.com/tutorials/cloud/terraform-hcp-consul-provider
-
-Next step is to set up the consul clients and then HCP Vault on top. Once this is setup I will draft an architectural diagram for the rest of the architecture to support the 100 Days of Go application.  
 
 
 ### Day 7
