@@ -157,14 +157,32 @@ I deployed HCP Consul, and learned the basics of HashiCorp Cloud Platform (HCP) 
 
 Once I understood the basic components and steps required to deploy a Consul cluster, I automated the approach using HashiCorp Terraform. 
 
-I created an issue for the rest of the insfrstructure here is the draft architecture I will be using Nomad instead of kubernetes but orginally found it here and I will be adapting the model for use for the project: 
+# To learn how to do this check out this link! 
+
+* https://learn.hashicorp.com/tutorials/cloud/terraform-hcp-consul-provider
+
+I created an issue for the rest of the insfrstructure here is the link to Issue 30:
+
+* https://github.com/Cobra16319/100_Days_Of_Go/issues/30
+
+
+# Architecture and direction for Project 
+
+I want to use a 3 tier application with a focus on workflows for continous improvment. I want it to get data and offer the data based on queries from the user. 
+
+I found a model below and I am going to use it and adapt it to my use case for this project. 
 
 * https://github.com/joatmon08/hashicorp-stack-demoapp/blob/main/README.md  
 
 ![13932F1A-89DF-4EB5-A9E1-18673AC9C5E2_1_105_c](https://user-images.githubusercontent.com/46206055/127510389-e1428d89-6c37-4662-bb51-a9eedc47fc15.jpeg)
 
+# Go Focus of the Day
+Today I am trying to learn to write data to the Postgres SQL database I am using for the project. I found this link if anyone in Discord or Reddit has a better one please do a pull request:
 
-I am falling in love with Go! I need your help and support to survie the next 96 days
+* https://golangdocs.com/golang-postgresql-example
+
+
+I am falling in love with Go! I need your help and support to survie the next 93 days
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
 
