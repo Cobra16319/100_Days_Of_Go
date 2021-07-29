@@ -166,6 +166,9 @@ I completed the setup of HashiCorp Cloud Platfom (HCP) Consul using Terraform an
 Next step is to set up the consul clients and then HCP Vault on top. Once this is setup I will draft an architectural diagram for the rest of the architecture to support the 100 Days of Go application.  
 
 
+### Day 7
+
+
 I am falling in love with Go! I need your help and support to survie the next 96 days
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
