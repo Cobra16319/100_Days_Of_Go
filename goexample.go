@@ -1,5 +1,5 @@
 package main
-# Need to scan and grab Postgres package
+
 import (
 	"api-pull/nhlApi"
 	"io"
