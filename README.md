@@ -185,11 +185,9 @@ Today I am trying to learn to write data to the Postgres SQL database I am using
 
 # Ran into the first Road Block
 
-I had some issues getting Postgres working locally and testing it's security upfront. I was able to solve this by using HashiCorp Nomad, Vault and Consul. 
+I had some issues getting Postgres working locally and testing it's security upfront. I was able to solve this by using Nomad.  
 
-First I deployed a local stack AWS enviornment with 3 nodes using 3 gives you a consensus and for me is cheap. I used Vault to secure and consul to connect to the nomad agent and Terraform to provision everything. 
-
-For now I just commited the nomad job for the data base because I do not want to waste credits. Been a long day but I will be back for day 10 and can hopefully start working on the go.example.go to start writting to the nomad job running the database. 
+For now I just commited the nomad job as I am doing local testing for free. Once I can find more time I plan to commit my local test files. 
 
 # To Do 
 
