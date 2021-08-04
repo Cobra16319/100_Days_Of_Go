@@ -179,7 +179,24 @@ I found a model below and I am going to use it and adapt it to my use case for t
 # Go Focus of the Day
 Today I am trying to learn to write data to the Postgres SQL database I am using for the project. I found this link if anyone in Discord or Reddit has a better one please do a pull request:
 
-* https://golangdocs.com/golang-postgresql-example
+* https://golangdocs.com/golang-postgresql-exampley 
+
+### Day 9 
+
+# Ran into the first Road Block
+
+I had some issues getting Postgres working locally and testing it's security upfront. I was able to solve this by using HashiCorp Nomad, Vault and Consul. 
+
+First I deployed a local stack AWS enviornment with 3 nodes using 3 gives you a consensus and for me is cheap. I used Vault to secure and consul to connect to the nomad agent and Terraform to provision everything. 
+
+For now I just commited the nomad job for the data base because I do not want to waste credits. Been a long day but I will be back for day 10 and can hopefully start working on the go.example.go to start writting to the nomad job running the database. 
+
+# To Do 
+
+1. Update architecture with Nomad soltion 
+2. Fix docs for how I was able to provison the test
+3. Start integrating the go module for scans 
+
 
 
 I am falling in love with Go! I need your help and support to survie the next 93 days
