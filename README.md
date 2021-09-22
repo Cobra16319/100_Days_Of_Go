@@ -177,9 +177,7 @@ I found a model below and I am going to use it and adapt it to my use case for t
 ![13932F1A-89DF-4EB5-A9E1-18673AC9C5E2_1_105_c](https://user-images.githubusercontent.com/46206055/127510389-e1428d89-6c37-4662-bb51-a9eedc47fc15.jpeg)
 
 # Go Focus of the Day
-Today I am trying to learn to write data to the Postgres SQL database I am using for the project. I found this link if anyone in Discord or Reddit has a better one please do a pull request:
-
-* https://golangdocs.com/golang-postgresql-exampley 
+Today I am trying to learn to write data to the Postgres SQL database I am using for the project. Exploring the best place to learn. 
 
 ### Day 9 
 
@@ -195,11 +193,24 @@ For now I just commited the nomad job as I am doing local testing for free. Once
 2. Fix docs for how I was able to provison the test
 3. Start integrating the go module for scans 
 
+### Day 10 
 
+I was able to test and improve the AWS module with HashiStack installed. Working on integration of Go Module found some vulnerabilities trying to resolve. 
 
 I am falling in love with Go! I need your help and support to survie the next 93 days
 
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
+
+
+
+### Day 11 
+
+I took a long break, that really was not a break and have been busy and not had time to work on this project... 
+But I am back and ready to learn! 
+
+
+
+
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
