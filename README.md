@@ -202,6 +202,17 @@ I am falling in love with Go! I need your help and support to survie the next 93
 As you can see I do not have much experience with Go yet! My goal is to have Go be at the top of this list by the end of this project. 
 
 
+
+### Day 11 
+
+I took a long break, that really was not a break and have been busy and not had time to work on this project... 
+But I am back and ready to learn! 
+
+
+
+
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra16319&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cobra16319)
